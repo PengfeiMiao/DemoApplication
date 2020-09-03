@@ -1,4 +1,2 @@
 # DemoApplication
-I have add the InternetCheck at the TODO,
-and combine the apps in Android_intro to the ListView.
-Then add the Login function based on the Login-master.
+我在TODO处添加了InternetCheck，并将Android_intro中的应用程序合并到ListView。然后基于Login-master添加Login功能。
